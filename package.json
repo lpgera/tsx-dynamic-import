@@ -1,0 +1,11 @@
+{
+  "name": "tsx-dynamic-import",
+  "scripts": {
+    "tsx": "tsx index.ts",
+    "tsx-register": "node register.js"
+  },
+  "dependencies": {
+    "tsx": "4.19.1",
+    "typescript": "5.6.3"
+  }
+}
